@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/homebg"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/logoImageView"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:contentDescription="Logo"
+        android:src="@drawable/home" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="casual"
+        android:textColor="@color/black"
+        android:text="Welcome to the Fitnessia App!"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:layout_marginBottom="24dp"
+        android:gravity="center"/>
+
+    <!-- activity_home.xml -->
+    <Button
+        android:id="@+id/logMealButton"
+        android:layout_width="180dp"
+        android:layout_height="48dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/white"
+        android:layout_marginBottom="10dp"
+        android:text="Log Meal" />
+
+    <Button
+        android:id="@+id/bmiCalculatorButton"
+        android:layout_width="180dp"
+        android:layout_height="48dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/white"
+        android:layout_marginBottom="10dp"
+        android:text="BMI Calculator" />
+
+    <Button
+        android:id="@+id/buttonWorkoutPlanner"
+        android:layout_width="180dp"
+        android:layout_height="48dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/white"
+        android:layout_marginBottom="10dp"
+        android:text="Workout Planner" />
+
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="180dp"
+        android:layout_height="48dp"
+        android:backgroundTint="@color/black"
+        android:textColor="@color/white"
+        android:text="Logout"/>
+
+</LinearLayout>

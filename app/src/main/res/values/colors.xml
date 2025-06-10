@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+<!--    <color name="bg">#</color>-->
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_background">#99ddff</color>
+    <color name="lightPurple_background">#9775f0</color>
+    <color name="dark_background">#2b2d30</color>
+    <color name="Beaver">#e1d5c9</color>
+    <color name="lightBlack">#202224</color>
+    <color name="loginBg">#eeebd8</color>
+    <color name="loginBtn">#acd1bf</color>
+    <color name="homebg">#d6fabb</color>
+    <color name="other">#f1daff</color>
+    <color name="grey">#8b8b89</color>
+</resources>

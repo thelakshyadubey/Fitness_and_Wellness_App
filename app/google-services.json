@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "350801185380",
+    "project_id": "fitnessandwellnessplatfo-858bc",
+    "storage_bucket": "fitnessandwellnessplatfo-858bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350801185380:android:7fa8198903dc27ff5d6d71",
+        "android_client_info": {
+          "package_name": "com.example.fitnessia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiRhVbOYnDwsiuJrdPSCaNsF40vRLasbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
